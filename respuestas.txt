@@ -1,1 +1,5 @@
 Respuestas a las preguntas de la pr´actica 3
+
+ 1.- ¿Cu´al es el prop´osito de trabajar con m´utliples ramas?
+    Permite mayor flexibilidad a la hora de trabajar. De tal manera, que cuando tengamos una versión estable de nuestro programa, podamos realizar cambios por nuestra cuenta, sin que estos afecten a nuestra versión estable.Permite
+
