@@ -6,7 +6,9 @@ Respuestas a las preguntas de la pr´actica 3
 
 
 
-
-
 3.- ¿Cu´al es la ventaja de reorganizar (rebase)?
     Ofrece una mayor flexibilidad, ya que no se mezclan las ramas y podemos tener ambas ramas disponibles.
+
+2.- ¿Qu´e es una reorganizaci´on (rebase)?
+    Consiste en coger todos los cambios confirmados en una rama, y reaplicarlos sobre otra.
+
